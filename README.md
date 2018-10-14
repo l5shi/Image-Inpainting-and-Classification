@@ -5,4 +5,3 @@ This project focuses on solving the classifying problem with blocked part. Mean 
 
 ![1 image](./1.png)
 ![3 image](./3.png)
-![2 image](./2.png)
