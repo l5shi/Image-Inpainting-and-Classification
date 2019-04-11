@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/language-python-orange.svg)
+
 # Image-Inpainting-and-Classification
 
 
